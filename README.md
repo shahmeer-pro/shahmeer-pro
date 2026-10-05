@@ -1,12 +1,21 @@
-# 💫 About Me: 
-I am a **Software & Engineer** passionate about building intelligent systems and scalable software solutions. 
+# Hi there, I'm Shah Meer 👋
+
+### 🚀 About Me
+I am a **Software Engineer** and Computer Science student at UET Lahore, based in Lahore, Pakistan. I specialize in building intelligent systems, scalable backend architectures, and modern web applications. 
+
+🌐 **Portfolio:** [shahmeer.dev](https://www.shahmeer.dev)
+
+---
 
 ### ⚡ What I Bring to the Table
-* **Backend Architecture:** Asynchronous microservices, optimized database designs, and high-throughput APIs.
-* **Performance Optimization:** Crafting efficient algorithms and low-level system designs.
+* **Backend Architecture:** Asynchronous microservices, optimized database designs, and high-throughput APIs using technologies like FastAPI and modern Python frameworks.
+* **Full Stack Development:** Crafting seamless web applications and user experiences with Next.js and robust frontend-backend integration.
+* **Performance Optimization:** Designing efficient algorithms, low-level system structures, and scalable software solutions.
 
-Always open to collaboration on open-source projects, machine learning workflows, and innovative software solutions.
+---
 
+### 📫 Let's Connect
+Always open to collaboration on open-source projects, backend AI engineering, and innovative software solutions.
 
 
 ## 🌐 Socials:
