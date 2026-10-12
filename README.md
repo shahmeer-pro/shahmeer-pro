@@ -70,8 +70,8 @@ Always open to collaboration on open-source projects, backend AI engineering, an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaimo-Coregames&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shaimo-CoreGames&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Shaimo-CoreGames&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shaimo-CoreGames&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=shahmeer-pro&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shahmeer-pro&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shahmeer-pro&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
