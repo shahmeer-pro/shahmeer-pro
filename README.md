@@ -18,7 +18,7 @@
 <br/>
 
 <!-- ===================== INTRO ===================== -->
-I'm a **Software Engineer** and Computer Science student at **UET Lahore**, Pakistan. I specialize in building **intelligent systems, scalable backend architectures, and modern web applications**, with a focus on clean design and measurable performance.
+I'm a **Software Engineer**. I specialize in building **intelligent systems, scalable backend architectures, and modern web applications**, with a focus on clean design and measurable performance.
 
 Along the way, I'm working on the pieces that make software genuinely useful: asynchronous APIs, optimized data layers, efficient algorithms, and polished user experiences.
 
