@@ -159,7 +159,7 @@ Smart expense tracking and financial analytics application with intelligent fore
       <img src="https://cdn.simpleicons.org/vite/646CFF" height="45" alt="Vite" /> &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="Tailwind" /> &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/html5/E34F26" height="45" alt="HTML5" /> &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/css3/1572B6" height="45" alt="CSS3" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" /> &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="45" alt="Bootstrap" />
       <br/><br/>
     </td>
