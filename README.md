@@ -9,10 +9,25 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/shahmeer-dev"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:shah.meer.pro97@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.shahmeer.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=about.me&logoColor=58A6FF" alt="Portfolio"/></a>
-<a href="https://instagram.com/clickbyshaimo"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shahmeer-dev">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shah.meer.pro97@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.shahmeer.dev">
+    <img src="https://cdn.simpleicons.org/googlechrome/58A6FF" width="28" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/clickbyshaimo">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" alt="Instagram" />
+  </a>
+</p>
+
 </div>
 
 <br/>
