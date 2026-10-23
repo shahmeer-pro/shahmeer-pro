@@ -221,6 +221,7 @@ I'm always open to collaboration on **open-source projects**, **backend AI engin
 <div align="center">
 
 <a href="https://www.shahmeer.dev"><img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-1f6feb?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/shahmeer-dev"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:shah.meer.pro97@gmail.com"><img src="https://img.shields.io/badge/SAY%20HELLO-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
