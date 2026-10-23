@@ -188,7 +188,7 @@ Smart expense tracking and financial analytics application with intelligent fore
       <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="45" alt="GitLab" /> &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="45" alt="Vercel" /> &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="45" alt="Netlify" /> &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="45" alt="Cisco" />
+      <img src="https://cdn.simpleicons.org/cisco/049FD9" height="45" alt="Cisco" />
       <br/><br/>
     </td>
   </tr>
