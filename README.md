@@ -10,7 +10,7 @@
 <br/>
 
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/shahmeer-dev">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" alt="LinkedIn" />
   </a>
