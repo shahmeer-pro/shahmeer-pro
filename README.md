@@ -116,91 +116,85 @@ Smart expense tracking and financial analytics application with intelligent fore
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
-
-**⚙️ Languages & Core**<br><br>
-
-<img src="https://cdn.simpleicons.org/python/3670A0" height="40" alt="Python" /> &nbsp;
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++" /> &nbsp;
-<img src="https://cdn.simpleicons.org/c/00599C" height="40" alt="C" /> &nbsp;
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" /> &nbsp;
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" /> &nbsp;
-<img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="PowerShell" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**🔧 Backend & APIs**<br><br>
-
-<img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="FastAPI" /> &nbsp;
-<img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="Flask" /> &nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" /> &nbsp;
-<img src="https://cdn.simpleicons.org/socketdotio/010101" height="40" alt="Socket.io" /> &nbsp;
-<img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="40" alt="JWT" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-**🗄️ Databases & Storage**<br><br>
-
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL" /> &nbsp;
-<img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" /> &nbsp;
-<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" /> &nbsp;
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="SQL Server" /> &nbsp;
-<img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="SQLite" /> &nbsp;
-<img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**🎨 Frontend**<br><br>
-
-<img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="Next.js" /> &nbsp;
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" /> &nbsp;
-<img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="Redux" /> &nbsp;
-<img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="Vite" /> &nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind" /> &nbsp;
-<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" /> &nbsp;
-<img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" /> &nbsp;
-<img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-**🤖 Data Science & ML**<br><br>
-
-<img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy" /> &nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" /> &nbsp;
-<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="40" alt="Matplotlib/Plotly" /> &nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="scikit-learn" /> &nbsp;
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="TensorFlow" /> &nbsp;
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**☁️ DevOps & Tools**<br><br>
-
-<img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS" /> &nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" /> &nbsp;
-<img src="https://cdn.simpleicons.org/git/F05033" height="40" alt="Git" /> &nbsp;
-<img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" /> &nbsp;
-<img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="GitLab" /> &nbsp;
-<img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="Vercel" /> &nbsp;
-<img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify" /> &nbsp;
-<img src="https://cdn.simpleicons.org/cisco/049fd9" height="40" alt="Cisco" />
-
-</td>
-</tr>
-</table>
-
 <br/>
+<b>⚙️ Languages & Core</b><br/><br/>
+
+<img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="45" alt="C++" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/c/A8B9CC" height="45" alt="C" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="45" alt="TypeScript" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" alt="JavaScript" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/powershell/5391FE" height="45" alt="PowerShell" />
+<br/><br/>
+</td>
+<td width="50%" valign="top" align="center">
+<br/>
+<b>🔧 Backend & APIs</b><br/><br/>
+
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="45" alt="FastAPI" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/flask/FFFFFF" height="45" alt="Flask" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="Node.js" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" height="45" alt="Socket.io" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" height="45" alt="JWT" />
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<br/>
+<b>🗄️ Databases & Storage</b><br/><br/>
+
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="45" alt="PostgreSQL" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" alt="MongoDB" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="MySQL" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="45" alt="SQL Server" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/sqlite/003B57" height="45" alt="SQLite" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" height="45" alt="Firebase" />
+<br/><br/>
+</td>
+<td width="50%" valign="top" align="center">
+<br/>
+<b>🎨 Frontend</b><br/><br/>
+
+<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="45" alt="Next.js" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="45" alt="React" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/redux/764ABC" height="45" alt="Redux" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vite/646CFF" height="45" alt="Vite" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="Tailwind" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="45" alt="HTML5" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="45" alt="CSS3" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="45" alt="Bootstrap" />
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<br/>
+<b>🤖 Data Science & ML</b><br/><br/>
+
+<img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="Pandas" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/plotly/FFFFFF" height="45" alt="Matplotlib/Plotly" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="scikit-learn" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="45" alt="TensorFlow" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45" alt="PyTorch" />
+<br/><br/>
+</td>
+<td width="50%" valign="top" align="center">
+<br/>
+<b>☁️ DevOps & Tools</b><br/><br/>
+
+<img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="45" alt="AWS" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="Docker" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05033" height="45" alt="Git" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/FFFFFF" height="45" alt="GitHub" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="45" alt="GitLab" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="45" alt="Vercel" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/netlify/00C7B7" height="45" alt="Netlify" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Analytics
 
