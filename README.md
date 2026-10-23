@@ -108,6 +108,7 @@ Smart expense tracking and financial analytics application with intelligent fore
 </table>
 <br/>
 <!-- ===================== TECH STACK ===================== -->
+
 ## 🛠️ Tech Stack
 
 <table width="100%">
