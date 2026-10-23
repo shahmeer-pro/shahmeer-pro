@@ -14,7 +14,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/shahmeer-dev">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="mailto:shah.meer.pro97@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email" />
@@ -26,7 +26,6 @@
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" alt="Instagram" />
   </a>
 </p>
-
 </div>
 
 <br/>
