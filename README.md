@@ -32,7 +32,7 @@ Along the way, I'm working on the pieces that make software genuinely useful: as
 <!-- ===================== WHAT I DO ===================== -->
 ## ⚡ What I Bring to the Table
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
@@ -58,9 +58,9 @@ Efficient algorithms, low-level system structures, and scalable software solutio
 <br/>
 
 <!-- ===================== PROJECTS ===================== -->
-📌 Featured Projects
+## 📌 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">🔹 <b>ProjectSphere</b><br/>
 A comprehensive project management and collaboration platform built for agile teams.
@@ -68,8 +68,8 @@ A comprehensive project management and collaboration platform built for agile te
 ✅ Real-time task tracking and Kanban boards<br/>
 ⚡ Role-Based Access Control (RBAC) and team workspaces<br/>
 🔐 Secure JWT authentication with robust API rate limiting<br/><br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<br/><br/>
 <a href="https://github.com/shahmeer-pro/ProjectSphere">Explore the code →</a>
 </td>
 <td width="50%" valign="top">🔹 <b>Nexus-Stream</b><br/>
@@ -79,7 +79,7 @@ High-performance asynchronous data streaming and real-time analytics pipeline.
 ⚡ Optimized database queries for real-time dashboard analytics<br/>
 🔐 Containerized microservices architecture for scalable deployments<br/><br/>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
-<br/>
+<br/><br/>
 <a href="https://github.com/shahmeer-pro/Nexus-Stream">Explore the code →</a>
 </td>
 </tr>
@@ -91,7 +91,7 @@ A seamless workspace for team productivity, resource sharing, and live communica
 ⚡ In-memory caching for lightning-fast user state retrieval<br/>
 🔐 Cloud-native storage integration for file sharing<br/><br/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
-<br/>
+<br/><br/>
 <a href="https://github.com/shahmeer-pro/Teamflow">Explore the code →</a>
 </td>
 <td width="50%" valign="top">🔹 <b>spendly</b><br/>
@@ -101,7 +101,7 @@ Smart expense tracking and financial analytics application with intelligent fore
 ⚡ Interactive data visualization and financial forecasting<br/>
 🔐 Encrypted user data handling and secure OAuth integration<br/><br/>
 <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<br/>
+<br/><br/>
 <a href="https://github.com/shahmeer-pro/spendly">Explore the code →</a>
 </td>
 </tr>
@@ -194,7 +194,14 @@ Smart expense tracking and financial analytics application with intelligent fore
 <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="45" alt="GitLab" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="45" alt="Vercel" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="45" alt="Netlify" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="
+<img src="https://cdn.simpleicons.org/cisco/049fd9" height="45" alt="Cisco" />
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Analytics
 
