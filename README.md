@@ -12,10 +12,11 @@
 
 <p>
   <a href="https://www.linkedin.com/in/shahmeer-dev">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg"
+  <img src="https://cdn.simpleicons.org/linkedin/FFFFFF"
        width="28"
        height="28"
-       alt="LinkedIn" />
+       alt="LinkedIn"
+       style="background-color:#0A66C2; padding:5px; border-radius:4px;" />
 </a>
   &nbsp;&nbsp;
   <a href="mailto:shah.meer.pro97@gmail.com">
