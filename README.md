@@ -10,22 +10,19 @@
 <br/>
 
 
+
 <p>
-<a href="https://www.linkedin.com/in/shahmeer-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
-       alt="LinkedIn" />
-</a>
-  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shahmeer-dev">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:shah.meer.pro97@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.shahmeer.dev">
-    <img src="https://cdn.simpleicons.org/googlechrome/58A6FF" width="28" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/googlechrome/58A6FF" width="28" height="28" alt="Portfolio" />
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/clickbyshaimo">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" alt="Instagram" />
   </a>
 </p>
 
