@@ -120,88 +120,87 @@ Smart expense tracking and financial analytics application with intelligent fore
 <tr>
 <td width="50%" valign="top" align="center">
 
-**⚙️ Languages & Core**
+**⚙️ Languages & Core**<br><br>
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**🔧 Backend & APIs**
-
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-**🗄️ Databases & Storage**
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/python/3670A0" height="40" alt="Python" /> &nbsp;
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++" /> &nbsp;
+<img src="https://cdn.simpleicons.org/c/00599C" height="40" alt="C" /> &nbsp;
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" /> &nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" /> &nbsp;
+<img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="PowerShell" />
 
 </td>
 <td width="50%" valign="top" align="center">
 
-**🎨 Frontend**
+**🔧 Backend & APIs**<br><br>
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="FastAPI" /> &nbsp;
+<img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="Flask" /> &nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" /> &nbsp;
+<img src="https://cdn.simpleicons.org/socketdotio/010101" height="40" alt="Socket.io" /> &nbsp;
+<img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="40" alt="JWT" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
 
-**🤖 Data Science & ML**
+**🗄️ Databases & Storage**<br><br>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL" /> &nbsp;
+<img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" /> &nbsp;
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" /> &nbsp;
+<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="SQL Server" /> &nbsp;
+<img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="SQLite" /> &nbsp;
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase" />
 
 </td>
 <td width="50%" valign="top" align="center">
 
-**☁️ DevOps & Tools**
+**🎨 Frontend**<br><br>
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black"/>
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="Next.js" /> &nbsp;
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" /> &nbsp;
+<img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="Redux" /> &nbsp;
+<img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="Vite" /> &nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind" /> &nbsp;
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" /> &nbsp;
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" /> &nbsp;
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**🤖 Data Science & ML**<br><br>
+
+<img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy" /> &nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" /> &nbsp;
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="40" alt="Matplotlib/Plotly" /> &nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="scikit-learn" /> &nbsp;
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="TensorFlow" /> &nbsp;
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**☁️ DevOps & Tools**<br><br>
+
+<img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS" /> &nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" /> &nbsp;
+<img src="https://cdn.simpleicons.org/git/F05033" height="40" alt="Git" /> &nbsp;
+<img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" /> &nbsp;
+<img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="GitLab" /> &nbsp;
+<img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="Vercel" /> &nbsp;
+<img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify" /> &nbsp;
+<img src="https://cdn.simpleicons.org/cisco/049fd9" height="40" alt="Cisco" />
 
 </td>
 </tr>
 </table>
 
 <br/>
-
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Analytics
 
