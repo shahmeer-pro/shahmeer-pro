@@ -17,13 +17,6 @@
 <br/><br/>
 </div>
 
-<br/>
-<div align="center">
-<a href="https://www.linkedin.com/in/shahmeer-dev"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:shah.meer.pro97@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.shahmeer.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=about.me&logoColor=58A6FF" alt="Portfolio"/></a>
-<a href="https://instagram.com/clickbyshaimo"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</div>
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=shahmeer-pro&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
