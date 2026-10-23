@@ -1,11 +1,24 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Shah%20Meer&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Systems&descSize=18&descAlignY=60&descColor=9fb3c8" alt="Shah Meer banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Shah%20Meer&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Backend%20and%20AI%20Systems&descSize=18&descAlignY=60&descColor=9fb3c8" alt="Shah Meer banner" width="100%"/>
 
 <a href="https://github.com/shahmeer-pro">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+scalable+backend+architectures;Crafting+intelligent+systems+with+Python+%26+FastAPI;Shipping+modern+web+apps+with+Next.js;CS+Student+%40+UET+Lahore" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+scalable+backend+architectures;Crafting+intelligent+systems+with+Python+and+FastAPI;Shipping+modern+web+apps+with+Next.js;CS+Student+%40+UET+Lahore" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/shahmeer-dev"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shah.meer.pro97@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.shahmeer.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=about.me&logoColor=58A6FF" alt="Portfolio"/></a>
+<a href="https://instagram.com/clickbyshaimo"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=shahmeer-pro&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+
+</div>
 
 <br/>
 
