@@ -1,75 +1,258 @@
-# Hi there, I'm Shah Meer 👋
+<!-- ===================== HEADER BANNER ===================== -->
+<div align="center">
 
-### 🚀 About Me
-I am a **Software Engineer** and Computer Science student at UET Lahore, based in Lahore, Pakistan. I specialize in building intelligent systems, scalable backend architectures, and modern web applications. 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Shah%20Meer&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Systems&descSize=18&descAlignY=60&descColor=9fb3c8" alt="Shah Meer banner" width="100%"/>
 
-🌐 **Portfolio:** [shahmeer.dev](https://www.shahmeer.dev)
+<a href="https://github.com/shahmeer-pro">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+scalable+backend+architectures;Crafting+intelligent+systems+with+Python+%26+FastAPI;Shipping+modern+web+apps+with+Next.js;CS+Student+%40+UET+Lahore" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### ⚡ What I Bring to the Table
-* **Backend Architecture:** Asynchronous microservices, optimized database designs, and high-throughput APIs using technologies like FastAPI and modern Python frameworks.
-* **Full Stack Development:** Crafting seamless web applications and user experiences with Next.js and robust frontend-backend integration.
-* **Performance Optimization:** Designing efficient algorithms, low-level system structures, and scalable software solutions.
+<a href="https://www.linkedin.com/in/shahmeer-dev"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shah.meer.pro97@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.shahmeer.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=about.me&logoColor=58A6FF" alt="Portfolio"/></a>
+<a href="https://instagram.com/clickbyshaimo"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
----
+<br/><br/>
 
-### 📫 Let's Connect
-Always open to collaboration on open-source projects, backend AI engineering, and innovative software solutions.
+<img src="https://komarev.com/ghpvc/?username=shahmeer-pro&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 
+</div>
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=about.me&logoColor=white)](https://www.shahmeer.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/clickbyshaimo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahmeer-dev) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shah.meer.pro97@gmail.com)
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) 
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) 
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat-square&logo=jinja&logoColor=black) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) 
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) 
+<!-- ===================== INTRO ===================== -->
+I'm a **Software Engineer** and Computer Science student at **UET Lahore**, Pakistan. I specialize in building **intelligent systems, scalable backend architectures, and modern web applications**, with a focus on clean design and measurable performance.
 
+Along the way, I'm working on the pieces that make software genuinely useful: asynchronous APIs, optimized data layers, efficient algorithms, and polished user experiences.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shahmeer-pro&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shahmeer-pro&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shahmeer-pro&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
+<!-- ===================== WHAT I DO ===================== -->
+## ⚡ What I Bring to the Table
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 Backend Architecture
+Asynchronous microservices, optimized database design, and high-throughput APIs built with **FastAPI** and modern Python frameworks.
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 Full-Stack Development
+Seamless web applications and user experiences with **Next.js**, backed by robust frontend-to-backend integration.
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 Performance Optimization
+Efficient algorithms, low-level system structures, and scalable software solutions that hold up under load.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== PROJECTS ===================== -->
+## 📌 Featured Projects
+
+> A few things I've been building. Replace the placeholders below with your own repos.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [Project One Name](https://github.com/shahmeer-pro/REPO-NAME)
+**One-line summary of what this project does and why it matters.**
+
+- ✅ Key feature or technical highlight
+- ⚡ Another notable capability
+- 🔐 Auth, performance, or architecture detail
+
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
+
+[**Explore the code →**](https://github.com/shahmeer-pro/REPO-NAME)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [Project Two Name](https://github.com/shahmeer-pro/REPO-NAME)
+**One-line summary of what this project does and why it matters.**
+
+- ✅ Key feature or technical highlight
+- ⚡ Another notable capability
+- 🔐 Auth, performance, or architecture detail
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
+
+[**Explore the code →**](https://github.com/shahmeer-pro/REPO-NAME)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [Project Three Name](https://github.com/shahmeer-pro/REPO-NAME)
+**One-line summary of what this project does and why it matters.**
+
+- ✅ Key feature or technical highlight
+- ⚡ Another notable capability
+- 🔐 Auth, performance, or architecture detail
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+
+[**Explore the code →**](https://github.com/shahmeer-pro/REPO-NAME)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [Project Four Name](https://github.com/shahmeer-pro/REPO-NAME)
+**One-line summary of what this project does and why it matters.**
+
+- ✅ Key feature or technical highlight
+- ⚡ Another notable capability
+- 🔐 Auth, performance, or architecture detail
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
+
+[**Explore the code →**](https://github.com/shahmeer-pro/REPO-NAME)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**More projects on the way.** I'm always building something new, follow along on GitHub.
+
+<a href="https://github.com/shahmeer-pro?tab=repositories"><img src="https://img.shields.io/badge/BROWSE%20ALL%20REPOS-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repos"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**⚙️ Languages & Core**
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**🔧 Backend & APIs**
+
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**🗄️ Databases & Storage**
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**🎨 Frontend**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**🤖 Data Science & ML**
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**☁️ DevOps & Tools**
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=shahmeer-pro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shahmeer-pro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=shahmeer-pro&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+<br/>
+
+<!-- ===================== CONNECT ===================== -->
+## 🤝 Let's Connect
+
+I'm always open to collaboration on **open-source projects**, **backend AI engineering**, and **innovative software solutions**. If you have an idea, a question, or just want to talk tech, reach out.
+
+<div align="center">
+
+<a href="https://www.shahmeer.dev"><img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-1f6feb?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:shah.meer.pro97@gmail.com"><img src="https://img.shields.io/badge/SAY%20HELLO-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="footer"/>
+
+</div>
