@@ -107,7 +107,6 @@ Smart expense tracking and financial analytics application with intelligent fore
 </tr>
 </table>
 <br/>
-
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
@@ -117,22 +116,22 @@ Smart expense tracking and financial analytics application with intelligent fore
     <th width="50%" align="center"><h3>🔧 Backend & APIs</h3></th>
   </tr>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="middle">
       <br/>
-      <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="45" alt="C++" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/c/A8B9CC" height="45" alt="C" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/typescript/3178C6" height="45" alt="TypeScript" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" alt="JavaScript" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/powershell/5391FE" height="45" alt="PowerShell" />
+      <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="Python" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="45" alt="C++" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/c/A8B9CC" height="45" alt="C" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" height="45" alt="TypeScript" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" alt="JavaScript" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="45" alt="PowerShell" />
       <br/><br/>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="middle">
       <br/>
-      <img src="https://cdn.simpleicons.org/fastapi/009688" height="45" alt="FastAPI" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/flask/FFFFFF" height="45" alt="Flask" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="Node.js" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" height="45" alt="Socket.io" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/fastapi/009688" height="45" alt="FastAPI" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/flask/FFFFFF" height="45" alt="Flask" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="Node.js" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" height="45" alt="Socket.io" /> &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" height="45" alt="JWT" />
       <br/><br/>
     </td>
@@ -142,25 +141,25 @@ Smart expense tracking and financial analytics application with intelligent fore
     <th width="50%" align="center"><h3>🎨 Frontend</h3></th>
   </tr>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="middle">
       <br/>
-      <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="45" alt="PostgreSQL" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" alt="MongoDB" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="MySQL" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="45" alt="SQL Server" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/sqlite/003B57" height="45" alt="SQLite" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="45" alt="PostgreSQL" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" alt="MongoDB" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="MySQL" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/sqlite/003B57" height="45" alt="SQLite" /> &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="45" alt="Firebase" />
       <br/><br/>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="middle">
       <br/>
-      <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="45" alt="Next.js" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/react/61DAFB" height="45" alt="React" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/redux/764ABC" height="45" alt="Redux" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/vite/646CFF" height="45" alt="Vite" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="Tailwind" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/html5/E34F26" height="45" alt="HTML5" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/css3/1572B6" height="45" alt="CSS3" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="45" alt="Next.js" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/react/61DAFB" height="45" alt="React" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/redux/764ABC" height="45" alt="Redux" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/vite/646CFF" height="45" alt="Vite" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="Tailwind" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/html5/E34F26" height="45" alt="HTML5" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/css3/1572B6" height="45" alt="CSS3" /> &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="45" alt="Bootstrap" />
       <br/><br/>
     </td>
@@ -170,31 +169,36 @@ Smart expense tracking and financial analytics application with intelligent fore
     <th width="50%" align="center"><h3>☁️ DevOps & Tools</h3></th>
   </tr>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="middle">
       <br/>
-      <img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="Pandas" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/plotly/FFFFFF" height="45" alt="Matplotlib" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="scikit-learn" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="45" alt="TensorFlow" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/numpy/4DABCF" height="45" alt="NumPy" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/pandas/E70488" height="45" alt="Pandas" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" alt="Matplotlib" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="scikit-learn" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="45" alt="TensorFlow" /> &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45" alt="PyTorch" />
       <br/><br/>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="middle">
       <br/>
-      <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="45" alt="AWS" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="Docker" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/git/F05033" height="45" alt="Git" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/github/FFFFFF" height="45" alt="GitHub" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="45" alt="GitLab" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="45" alt="Vercel" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="45" alt="Netlify" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/cisco/049fd9" height="45" alt="Cisco" />
+      <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="Docker" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/git/F05033" height="45" alt="Git" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/github/FFFFFF" height="45" alt="GitHub" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="45" alt="GitLab" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="45" alt="Vercel" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="45" alt="Netlify" /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="45" alt="Cisco" />
       <br/><br/>
     </td>
   </tr>
+  <!-- Spacer row: forces the table to stretch to the full container width -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&height=1" width="1500" height="1" alt=""/>
+    </td>
+  </tr>
 </table>
-
 <br/>
 
 <!-- ===================== GITHUB STATS ===================== -->
