@@ -206,12 +206,7 @@ Smart expense tracking and financial analytics application with intelligent fore
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=shahmeer-pro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shahmeer-pro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=shahmeer-pro&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
