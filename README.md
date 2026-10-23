@@ -11,12 +11,11 @@
 
 
 
+
 <p>
-  
-<a href="https://www.linkedin.com/in/shahmeer-dev">
-  <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white"
-       width="28" height="28" alt="LinkedIn" />
-</a>
+  <a href="https://www.linkedin.com/in/shahmeer-dev">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:shah.meer.pro97@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email" />
   </a>&nbsp;&nbsp;
